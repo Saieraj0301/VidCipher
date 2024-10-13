@@ -61,6 +61,12 @@ cd VidForensicsTool
 ### 6. Stop the Application:
   To stop the Streamlit app, press `CTRL + C` in the terminal.
 
+## Snapshots:
+![Screenshot 2024-10-14 000242](https://github.com/user-attachments/assets/96ff30ac-5c29-41af-968a-b826fd4d12bb)
+
+<br/> 
+
+![Screenshot 2024-10-14 000303](https://github.com/user-attachments/assets/418adb05-6f5f-415d-9f62-102a8a49e88a)
 
 ## Contributing
 Contributions are welcome! If you find any bugs or have suggestions for improvements, please open an issue or create a pull request.
